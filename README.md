@@ -16,3 +16,7 @@ Login Screen:
 
 Sign_Up screen:
 
+![signup](https://github.com/Yogeshyadav03/Health-Care-App/assets/103330048/6c9401df-3774-4558-8cf6-52e517f63a23)
+
+ Home Screen
+
